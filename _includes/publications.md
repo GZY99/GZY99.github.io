@@ -94,13 +94,69 @@ Understanding, Generation, and Instruction Following</a></div>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_PointCLIP_Point_Cloud_Understanding_by_CLIP_CVPR_2022_paper.pdf">Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D 
-Understanding, Generation, and Instruction Following</a></div>
+    <div class="title"><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_PointCLIP_Point_Cloud_Understanding_by_CLIP_CVPR_2022_paper.pdf">PointCLIP: Point Cloud Understanding by CLIP</a></div>
     <div class="author">Renrui Zhang*, <strong>Ziyu Guo*</strong>, Wei Zhang, Kunchang Li, Xupeng Miao, Bin Cui, Yu Qiao, Peng Gao, Hongsheng Li.</div>
-    <div class="periodical"><strong><i style="color:#7b5aa6">CVPR 2023</i></strong>
+    <div class="periodical"><strong><i style="color:#7b5aa6">CVPR 2022</i></strong>
     <div class="links">
       <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_PointCLIP_Point_Cloud_Understanding_by_CLIP_CVPR_2022_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/ZrrSkywalker/PointCLIP" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/pointm2ae.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">NeurIPS22</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2205.14401.pdf">Point-M2AE: Multi-scale Masked Autoencoders for Hierarchical Point Cloud Pre-training</a></div>
+    <div class="author">Renrui Zhang, <strong>Ziyu Guo</strong>, Peng Gao, Rongyao Fang, Bin Zhao, Dong Wang, Yu Qiao, Hongsheng Li.</div>
+    <div class="periodical"><strong><i style="color:#7b5aa6">NeurIPS 2022</i></strong>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2205.14401.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/ZrrSkywalker/Point-M2AE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/persam.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv23</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2305.03048.pdf">Personalize Segment Anything Model with One Shot</a></div>
+    <div class="author">Renrui Zhang, Zhengkai Jiang*, <strong>Ziyu Guo*</strong>, Shilin Yan, Junting Pan, Hao Dong, Peng Gao, Hongsheng Li.</div>
+    <div class="periodical"><strong><i style="color:#7b5aa6">arXiv 2023</i></strong>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2305.03048.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/ZrrSkywalker/Personalize-SAM" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/wacv.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">WACV23</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2303.00703.pdf">Nearest Neighbors Meet Deep Neural Networks for Point Cloud Analysis</a></div>
+    <div class="author">Renrui Zhang, Liuhui Wang, <strong>Ziyu Guo*</strong>, Jianbo Shi.</div>
+    <div class="periodical"><strong><i style="color:#7b5aa6">WACV 2023</i></strong>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2303.00703.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
