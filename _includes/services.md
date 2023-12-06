@@ -1,13 +1,4 @@
-<style>
-  li {
-    margin-bottom: 8px; /* Adjust the margin as desired */
-  }
-</style>
-
 <h2 id="Services" style="margin: 2px 0px -15px;">Services</h2>
-
-<div class="publications">
-<ol class="bibliography">
 
 <h4 style="margin:0 10px 0px;">Conference Reviewers</h4>
 
@@ -26,4 +17,3 @@
   <li>TCSVT 2023</li>
 </ul>
 
-</div>
