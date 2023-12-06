@@ -34,7 +34,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2303.16894">ViewRefer: Grasp the Multi-view Knowledge for
 3D Visual Grounding with GPT and Prototype Guidance</a></div>
-    <div class="author"><strong>Ziyu Guo*</strong>, Yiwen Tang*, Renrui Zhang*, Dong Wang, Zhigang Wang.</div>
+    <div class="author"><strong>Ziyu Guo*</strong>, Yiwen Tang*, Renrui Zhang*, Dong Wang, Zhigang Wang, Bin Zhao, Xuelong Li.</div>
     <div class="periodical"><strong><i style="color:#7b5aa6">ICCV 2023</i></strong>
     <div class="links">
       <a href="https://arxiv.org/pdf/2303.16894" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -49,7 +49,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/jointmae.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ICCV23</abbr>
+    <abbr class="badge">IJCAI23</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -62,6 +62,28 @@ Point Cloud Pre-training</a></div>
     </div>
   </div>
 </div>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/jointmae.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv23</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2309.00615">Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D 
+Understanding, Generation, and Instruction Following</a></div>
+    <div class="author"><strong>Ziyu Guo*</strong>, Renrui Zhang*, Xiangyang Zhu, Yiwen Tang, Xianzheng Ma, Jiaming Han, Kexin Chen, Peng Gao, Xianzhi Li, Hongsheng Li, Pheng-Ann Heng.</div>
+    <div class="periodical"><strong><i style="color:#7b5aa6">arXiv 2023</i></strong>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2309.00615" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/ZiyuGuo99/Point-Bind_Point-LLM" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+
 
 
 
