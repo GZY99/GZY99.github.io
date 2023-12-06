@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -68,7 +68,7 @@ Point Cloud Pre-training</a></div>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/jointmae.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/pointbind.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv23</abbr>
   </div>
 
@@ -85,6 +85,25 @@ Understanding, Generation, and Instruction Following</a></div>
 </div>
 
 
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/pointclip.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPR22</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_PointCLIP_Point_Cloud_Understanding_by_CLIP_CVPR_2022_paper.pdf">Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D 
+Understanding, Generation, and Instruction Following</a></div>
+    <div class="author">Renrui Zhang*, <strong>Ziyu Guo*</strong>, Wei Zhang, Kunchang Li, Xupeng Miao, Bin Cui, Yu Qiao, Peng Gao, Hongsheng Li.</div>
+    <div class="periodical"><strong><i style="color:#7b5aa6">CVPR 2023</i></strong>
+    <div class="links">
+      <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_PointCLIP_Point_Cloud_Understanding_by_CLIP_CVPR_2022_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/ZrrSkywalker/PointCLIP" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
 
 
 <br>
