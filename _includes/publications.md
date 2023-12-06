@@ -141,7 +141,7 @@ Understanding, Generation, and Instruction Following</a></div>
     </div>
   </div>
 </div>
-
+</li>
 
 <li>
 <div class="pub-row">
@@ -160,7 +160,9 @@ Understanding, Generation, and Instruction Following</a></div>
     </div>
   </div>
 </div>
-
-
+</li>
+  
 <br>
+
+</ol>
 </div>
