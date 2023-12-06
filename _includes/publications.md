@@ -195,5 +195,5 @@ Point Cloud Pre-training</a></div>
   </div>
 </div>
 
-</ol>
+
 </div>
