@@ -1,7 +1,7 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications and Preprints</h2>
 
 <div class="publications">
-<ol class="bibliography">
+
 
 
 <li>
@@ -22,7 +22,7 @@
     </div>
   </div>
 </div>
-</li>
+
 
 <br>
 <br>
@@ -46,7 +46,7 @@
     </div>
   </div>
 </div>
-</li>
+
 
 <br>
 <br>
@@ -72,7 +72,7 @@
     </div>
   </div>
 </div>
-</li>
+
 
 <br>
 <br>
@@ -98,7 +98,7 @@
     </div>
   </div>
 </div>
-</li>
+
 
 <br>
 <br>
@@ -123,7 +123,7 @@ Point Cloud Pre-training</a></div>
     </div>
   </div>
 </div>
-</li>
+
 
 <br>
 <br>
@@ -148,7 +148,7 @@ Point Cloud Pre-training</a></div>
     </div>
   </div>
 </div>
-</li>
+
 
 <br>
 <br>
@@ -172,7 +172,7 @@ Point Cloud Pre-training</a></div>
     </div>
   </div>
 </div>
-</li>
+
 
 <br>
 <br>
@@ -195,9 +195,6 @@ Point Cloud Pre-training</a></div>
     </div>
   </div>
 </div>
-</li>
 
 
-
-</ol>
 </div>
