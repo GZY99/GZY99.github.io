@@ -13,8 +13,7 @@
     </div>
   
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/pdf/2309.00615">Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D 
-  Understanding, Generation, and Instruction Following</a></div>
+      <div class="title"><a href="https://arxiv.org/pdf/2309.00615">Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following</a></div>
       <div class="author"><strong>Ziyu Guo*</strong>, Renrui Zhang*, Xiangyang Zhu, Yiwen Tang, Xianzheng Ma, Jiaming Han, Kexin Chen, Peng Gao, Xianzhi Li, Hongsheng Li, Pheng-Ann Heng.</div>
       <div class="periodical"><strong><i style="color:#7b5aa6">arXiv 2023</i></strong>
       <div class="links">
@@ -24,7 +23,6 @@
     </div>
   </div>
   </li>
-    
   <br>
   
 
