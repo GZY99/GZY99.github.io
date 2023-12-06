@@ -13,7 +13,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2309.00615">Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following</a></div>
-    <div class="author"><strong>Ziyu Guo*</strong>, Renrui Zhang*, Xiangyang Zhu, Yiwen Tang, Xianzheng Ma, Jiaming Han, Kexin Chen, Peng Gao, Xianzhi Li, Hongsheng Li, Pheng-Ann Heng.</div>
+    <div class="author"><b>Ziyu Guo*</b>, Renrui Zhang*, Xiangyang Zhu, Yiwen Tang, Xianzheng Ma, Jiaming Han, Kexin Chen, Peng Gao, Xianzhi Li, Hongsheng Li, Pheng-Ann Heng.</div>
     <div class="periodical"><strong><i style="color:#7b5aa6">arXiv 2023</i></strong>
     <div class="links">
       <a href="https://arxiv.org/pdf/2309.00615" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -37,7 +37,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2305.03048.pdf">Personalize Segment Anything Model with One Shot</a></div>
-    <div class="author">Renrui Zhang, Zhengkai Jiang*, <strong>Ziyu Guo*</strong>, Shilin Yan, Junting Pan, Hao Dong, Peng Gao, Hongsheng Li.</div>
+    <div class="author">Renrui Zhang, Zhengkai Jiang*, <b>Ziyu Guo*</b>, Shilin Yan, Junting Pan, Hao Dong, Peng Gao, Hongsheng Li.</div>
     <div class="periodical"><strong><i style="color:#7b5aa6">arXiv 2023</i></strong>
     <div class="links">
       <a href="https://arxiv.org/pdf/2305.03048.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -63,7 +63,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/25152/24924">CALIP: Zero-Shot Enhancement of CLIP with Non-Parametric Attention</a></div>
-    <div class="author"><strong>Ziyu Guo*</strong>, Renrui Zhang*, Longtian Qiu*, Xupeng Miao, Bin Cui.</div>
+    <div class="author"><b>Ziyu Guo*</b>, Renrui Zhang*, Longtian Qiu*, Xupeng Miao, Bin Cui.</div>
     <div class="periodical"><strong><i style="color:#7b5aa6">AAAI 2023 Oral</i></strong>
     <div class="links">
       <a href="https://ojs.aaai.org/index.php/AAAI/article/view/25152/24924" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -89,7 +89,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2303.16894">ViewRefer: Grasp the Multi-view Knowledge for
 3D Visual Grounding with GPT and Prototype Guidance</a></div>
-    <div class="author"><strong>Ziyu Guo*</strong>, Yiwen Tang*, Renrui Zhang*, Dong Wang, Zhigang Wang, Bin Zhao, Xuelong Li.</div>
+    <div class="author"><b>Ziyu Guo*</b>, Yiwen Tang*, Renrui Zhang*, Dong Wang, Zhigang Wang, Bin Zhao, Xuelong Li.</div>
     <div class="periodical"><strong><i style="color:#7b5aa6">ICCV 2023</i></strong>
     <div class="links">
       <a href="https://arxiv.org/pdf/2303.16894" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -115,7 +115,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2302.14007">Joint-MAE: 2D-3D Joint Masked Autoencoders for 3D 
 Point Cloud Pre-training</a></div>
-    <div class="author"><strong>Ziyu Guo*</strong>, Renrui Zhang*, Longtian Qiu, Xianzhi Li, Pheng-Ann Heng.</div>
+    <div class="author"><b>Ziyu Guo*</b>, Renrui Zhang*, Longtian Qiu, Xianzhi Li, Pheng-Ann Heng.</div>
     <div class="periodical"><strong><i style="color:#7b5aa6">IJCAI 2023 Oral</i></strong>
     <div class="links">
       <a href="https://arxiv.org/pdf/2302.14007" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -139,7 +139,7 @@ Point Cloud Pre-training</a></div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_PointCLIP_Point_Cloud_Understanding_by_CLIP_CVPR_2022_paper.pdf">PointCLIP: Point Cloud Understanding by CLIP</a></div>
-    <div class="author">Renrui Zhang*, <strong>Ziyu Guo*</strong>, Wei Zhang, Kunchang Li, Xupeng Miao, Bin Cui, Yu Qiao, Peng Gao, Hongsheng Li.</div>
+    <div class="author">Renrui Zhang*, <b>Ziyu Guo*</b>, Wei Zhang, Kunchang Li, Xupeng Miao, Bin Cui, Yu Qiao, Peng Gao, Hongsheng Li.</div>
     <div class="periodical"><strong><i style="color:#7b5aa6">CVPR 2022</i></strong>
     <div class="links">
       <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_PointCLIP_Point_Cloud_Understanding_by_CLIP_CVPR_2022_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -163,7 +163,7 @@ Point Cloud Pre-training</a></div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2205.14401.pdf">Point-M2AE: Multi-scale Masked Autoencoders for Hierarchical Point Cloud Pre-training</a></div>
-    <div class="author">Renrui Zhang, <strong>Ziyu Guo</strong>, Peng Gao, Rongyao Fang, Bin Zhao, Dong Wang, Yu Qiao, Hongsheng Li.</div>
+    <div class="author">Renrui Zhang, <b>Ziyu Guo</b>, Peng Gao, Rongyao Fang, Bin Zhao, Dong Wang, Yu Qiao, Hongsheng Li.</div>
     <div class="periodical"><strong><i style="color:#7b5aa6">NeurIPS 2022</i></strong>
     <div class="links">
       <a href="https://arxiv.org/pdf/2205.14401.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -187,7 +187,7 @@ Point Cloud Pre-training</a></div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2303.00703.pdf">Nearest Neighbors Meet Deep Neural Networks for Point Cloud Analysis</a></div>
-    <div class="author">Renrui Zhang, Liuhui Wang, <strong>Ziyu Guo*</strong>, Jianbo Shi.</div>
+    <div class="author">Renrui Zhang, Liuhui Wang, <b>Ziyu Guo</b>, Jianbo Shi.</div>
     <div class="periodical"><strong><i style="color:#7b5aa6">WACV 2023</i></strong>
     <div class="links">
       <a href="https://arxiv.org/pdf/2303.00703.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
