@@ -1,8 +1,7 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications and Preprints</h2>
 
 <div class="publications">
-
-
+<ol class="bibliography">
 
 <li>
 <div class="pub-row">
@@ -196,5 +195,5 @@ Point Cloud Pre-training</a></div>
   </div>
 </div>
 
-
+</ol>
 </div>
