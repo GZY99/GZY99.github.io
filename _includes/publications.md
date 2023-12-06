@@ -1,3 +1,16 @@
+<head>
+  <style>
+    .publication-title {
+      color: blue;
+    }
+    .publication-authors {
+      color: green;
+    }
+    .publication-periodical {
+      color: purple;
+    }
+  </style>
+</head>
 <h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications and Preprints</h2>
 
 <div class="publications">
@@ -13,7 +26,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2309.00615">Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following</a></div>
-    <div class="author"><b>Ziyu Guo*</b>, Renrui Zhang*, Xiangyang Zhu, Yiwen Tang, Xianzheng Ma, Jiaming Han, Kexin Chen, Peng Gao, Xianzhi Li, Hongsheng Li, Pheng-Ann Heng.</div>
+    <div class="author"><b class="publication-authors">Ziyu Guo*</b>, Renrui Zhang*, Xiangyang Zhu, Yiwen Tang, Xianzheng Ma, Jiaming Han, Kexin Chen, Peng Gao, Xianzhi Li, Hongsheng Li, Pheng-Ann Heng.</div>
     <div class="periodical"><strong><i style="color:#7b5aa6">arXiv 2023</i></strong>
     <div class="links">
       <a href="https://arxiv.org/pdf/2309.00615" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
