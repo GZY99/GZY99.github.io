@@ -8,7 +8,7 @@ li{
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>NeurIPS 2023</li>
+  <li>NeurIPS1 2023</li>
   <li>ACM MM 2023</li>
   <li>ICCV 2023</li>
   <li>ICLR 2024</li>
