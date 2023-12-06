@@ -1,7 +1,56 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications and Preprints</h2>
 
 <div class="publications">
 <ol class="bibliography">
+
+
+<li>
+  <div class="pub-row">
+  
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+      <img src="assets/img/pointbind.png" class="teaser img-fluid z-depth-1">
+      <abbr class="badge">arXiv23</abbr>
+    </div>
+  
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/pdf/2309.00615">Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D 
+  Understanding, Generation, and Instruction Following</a></div>
+      <div class="author"><strong>Ziyu Guo*</strong>, Renrui Zhang*, Xiangyang Zhu, Yiwen Tang, Xianzheng Ma, Jiaming Han, Kexin Chen, Peng Gao, Xianzhi Li, Hongsheng Li, Pheng-Ann Heng.</div>
+      <div class="periodical"><strong><i style="color:#7b5aa6">arXiv 2023</i></strong>
+      <div class="links">
+        <a href="https://arxiv.org/pdf/2309.00615" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        <a href="https://github.com/ZiyuGuo99/Point-Bind_Point-LLM" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      </div>
+    </div>
+  </div>
+  </li>
+    
+  <br>
+  
+
+  <li>
+    <div class="pub-row">
+    
+      <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+        <img src="assets/img/persam.png" class="teaser img-fluid z-depth-1">
+        <abbr class="badge">arXiv23</abbr>
+      </div>
+    
+      <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+        <div class="title"><a href="https://arxiv.org/pdf/2305.03048.pdf">Personalize Segment Anything Model with One Shot</a></div>
+        <div class="author">Renrui Zhang, Zhengkai Jiang*, <strong>Ziyu Guo*</strong>, Shilin Yan, Junting Pan, Hao Dong, Peng Gao, Hongsheng Li.</div>
+        <div class="periodical"><strong><i style="color:#7b5aa6">arXiv 2023</i></strong>
+        <div class="links">
+          <a href="https://arxiv.org/pdf/2305.03048.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+          <a href="https://github.com/ZrrSkywalker/Personalize-SAM" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+        </div>
+      </div>
+    </div>
+    </li>
+    <br>
+    
+    
+
 
 <li>
 <div class="pub-row">
@@ -21,6 +70,10 @@
     </div>
   </div>
 </div>
+</li>
+  
+<br>
+
 
 
 <li>
@@ -42,6 +95,10 @@
     </div>
   </div>
 </div>
+</li>
+  
+<br>
+
 
 
 <li>
@@ -62,27 +119,10 @@ Point Cloud Pre-training</a></div>
     </div>
   </div>
 </div>
+</li>
+  
+<br>
 
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/pointbind.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv23</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2309.00615">Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D 
-Understanding, Generation, and Instruction Following</a></div>
-    <div class="author"><strong>Ziyu Guo*</strong>, Renrui Zhang*, Xiangyang Zhu, Yiwen Tang, Xianzheng Ma, Jiaming Han, Kexin Chen, Peng Gao, Xianzhi Li, Hongsheng Li, Pheng-Ann Heng.</div>
-    <div class="periodical"><strong><i style="color:#7b5aa6">arXiv 2023</i></strong>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2309.00615" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/ZiyuGuo99/Point-Bind_Point-LLM" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
 
 
 <li>
@@ -103,6 +143,10 @@ Understanding, Generation, and Instruction Following</a></div>
     </div>
   </div>
 </div>
+</li>
+  
+<br>
+
 
 <li>
 <div class="pub-row">
@@ -122,26 +166,10 @@ Understanding, Generation, and Instruction Following</a></div>
     </div>
   </div>
 </div>
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/persam.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv23</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2305.03048.pdf">Personalize Segment Anything Model with One Shot</a></div>
-    <div class="author">Renrui Zhang, Zhengkai Jiang*, <strong>Ziyu Guo*</strong>, Shilin Yan, Junting Pan, Hao Dong, Peng Gao, Hongsheng Li.</div>
-    <div class="periodical"><strong><i style="color:#7b5aa6">arXiv 2023</i></strong>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2305.03048.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/ZrrSkywalker/Personalize-SAM" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
 </li>
+  
+<br>
+
 
 <li>
 <div class="pub-row">
