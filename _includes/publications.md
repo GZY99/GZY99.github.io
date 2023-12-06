@@ -4,7 +4,7 @@
       color: blue;
     }
     .publication-authors {
-      color: green;
+      color: blue;
     }
     .publication-periodical {
       color: purple;
