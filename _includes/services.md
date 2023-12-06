@@ -1,8 +1,10 @@
-<h2 id="Services" style="margin: 2px 0px -15px;">Services</h2>
+<h2 id="Services" style="margin: 5px 0px -15px;">Services</h2>
 
 <div class="publications">
 <ol class="bibliography">
-
+li{
+  margin: 10px 0;
+}
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
